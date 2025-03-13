@@ -7,6 +7,7 @@ document.getElementById('viewAll').addEventListener('click', () => {
       }
     });
   });
+  window.close();
 });
 
 document.getElementById('unviewAll').addEventListener('click', () => {
@@ -17,5 +18,6 @@ document.getElementById('unviewAll').addEventListener('click', () => {
         document.querySelectorAll('.js-reviewed-checkbox').forEach(input => !input.checked || input.click());
       }
     });
+    window.close();
   });
 });
