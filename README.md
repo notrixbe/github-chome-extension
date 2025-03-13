@@ -53,11 +53,3 @@ Feel free to fork, customize, and contribute to this project. Contributions and 
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ for Developers!
-
